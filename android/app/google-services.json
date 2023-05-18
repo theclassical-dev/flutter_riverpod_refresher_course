@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075269860487",
+    "project_id": "riverpod-inst-clone-course",
+    "storage_bucket": "riverpod-inst-clone-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075269860487:android:5dcbf924d1eeb987ff0c22",
+        "android_client_info": {
+          "package_name": "com.example.instaclonefunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075269860487-9mluf0grd1a491deeqotqkf3pfap7u6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhz240h0zww60RgBixc-mLLTM1SUr8uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075269860487-9mluf0grd1a491deeqotqkf3pfap7u6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
